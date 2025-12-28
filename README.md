@@ -4,6 +4,9 @@
 A web application designed for first-year engineering students to prepare more effectively for exams using past exam paper intelligence.  
 Faculty upload exam papers, the system extracts and analyzes questions, and students receive optimized study plans and high-yield survival guides.
 
+## Live Demo
+[Click here to view the contents](https://first-year-exam-intelligence-platfo-phi.vercel.app/)
+
 ## Key Features
 - **Faculty-authenticated exam paper upload**
 - **Automatic question extraction** using Google Gemini Vision

@@ -10,6 +10,7 @@ Faculty upload exam papers, the system extracts and analyzes questions, and stud
 Use the following test faculty credentials to access the faculty upload flow:
 **Email:** test@email.com  
 **Password:** test123
+> Note: These credentials are for hackathon evaluation only.
 
 ## Key Features
 - **Faculty-authenticated exam paper upload**

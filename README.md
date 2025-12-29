@@ -6,6 +6,10 @@ Faculty upload exam papers, the system extracts and analyzes questions, and stud
 
 ## Live Demo
 [Click here to view the contents](https://first-year-exam-intelligence-platfo-phi.vercel.app/)
+## Demo Login (For Judges)
+Use the following test faculty credentials to access the faculty upload flow:
+**Email:** test@email.com  
+**Password:** test123
 
 ## Key Features
 - **Faculty-authenticated exam paper upload**
@@ -53,7 +57,7 @@ Faculty upload exam papers, the system extracts and analyzes questions, and stud
 
 ### Faculty
 1. Navigate to `/faculty/login`
-2. Log in using a verified faculty email
+2. Log in using a verified faculty email(email: test@email.com , password: test123)
 3. Upload exam papers at `/faculty/upload`
 4. View extraction results (subject, exam type, questions, marks)
 
